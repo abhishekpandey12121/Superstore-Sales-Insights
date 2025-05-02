@@ -1,5 +1,5 @@
 # Superstore-Sales-Insights
-Introduction
+**Introduction**
 This repository contains a comprehensive sales dashboard, designed to visualize sales data across various dimensions. The dashboard is equipped with interactive graphs that allow users to assess sales performance over time, by region, and by product category.
 
 Features
